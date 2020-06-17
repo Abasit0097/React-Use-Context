@@ -9,7 +9,7 @@ function App() {
   return (
     <ValueContext.Provider value={value}>
     <div>
-      Hellow world from App 
+      Hellow world from  App trying reducer
       <Parent></Parent>
       </div>
       </ValueContext.Provider>
